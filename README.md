@@ -4,22 +4,23 @@ Merhaba! Ben Yusuf Taha ÇİMEN, siber güvenlik alanına ilgi duyan, sürekli �
 
 ## 🛠️ İlgi Alanlarım
 
-- 🔍 Zafiyet Analizi (Vulnerability Assessment)
+- 🔍 Zafiyet Araştırması (Vulnerability Research)
 - 🧪 Penetrasyon Testleri
-- 🕵️‍♂️ OSINT (Açık Kaynak İstihbarat)
+- 🕵️‍♂️ CTI (Cyber Threat Intelligence)
 - 🔐 Web ve Uygulama Güvenliği
 - 🧰 CTF & HackTheBox Çözümleri
 
 ## 🧠 Şu Anda Öğreniyorum
 
-- Nuclei, Metasploit ve diğer güvenlik araçları
-- Golang ile otomasyon ve exploit yazımı
+- Aktif, Pasif taramalarla Recon
+- N8N gibi alt yapılarla AI otomasyon geliştirme
+- AI Red Team, AI Penetrasyon Testleri
 
-## 🚀 Hedeflerim
+## 🚀 2025 Hedeflerim
 
-- ✅ CEH / OSCP sertifikasyonlarını tamamlamak  
-- ✅ Açık kaynak güvenlik projelerine katkıda bulunmak  
-- ✅ Kendi araçlarımı geliştirmek ve paylaşmak  
+-  Bug Bounty ile sektörel pratik kazanmak
+-  Research projesi geliştirilmesi
+-  
 
 ## 📫 Bana Ulaş
 
