@@ -1,4 +1,4 @@
-# 👨‍💻 ytsec | Cybersecurity 
+# 👨‍💻 ytsec/0x33 | Cybersecurity 
 
 Merhaba! Ben Yusuf Taha ÇİMEN, siber güvenlik alanına ilgi duyan, sürekli öğrenmeyi seven bir teknoloji meraklısıyım. Sistem güvenliği, zafiyet analizi ve etik hacking konularında kendimi geliştiriyorum.
 
